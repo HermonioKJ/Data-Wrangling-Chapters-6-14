@@ -1,5 +1,8 @@
 Revised codes for Data Preperation Class of BSCS 3-B in Iloilo Science and Technology University.
-Create folders for every chapter and put in the code within them. You can create folders by putting the folder name on the top then putting / followed by the file name.
-(e.g. Chapter 7/code)
 
 Contains all the working codes from the book "Data Wrangling With Python"
+
+#Instructions
+Code requires access to data folder, specifically under UNICEF folder. Pathing for codes might not work so modify to adjust. 
+  Chapter 6-8 might require you to correct paths of mn.csv, mn_updated_header.csv files based on the directory in your computer.
+  Repeat the same instructions on other chapters.
